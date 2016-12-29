@@ -107,6 +107,9 @@ table {
   table tr {
     border-bottom: 1px dotted #AEADAD; }
 
+.gist table tr {
+  border-bottom: none; }
+
 ::selection {
   background: #FFF5B8;
   color: #000;
