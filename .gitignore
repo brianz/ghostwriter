@@ -7,3 +7,4 @@ Desktop.ini
 static/sass/.sass-cache
 
 *.swp
+node_modules/
